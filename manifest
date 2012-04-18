@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: With this module, you will be integrating the best in mobile (iOS) notifications there is. Who likes alert boxes poping up in front of what you are trying to do? No one! Ultimate iOS Notifications unobtrusively animates all notifications in from the bottom of the screen and do not get in the way of what your users are trying to accomplish. The best part of all, it is extrememly easy to setup and use. With a one line command, you can have The Ultimate iOS Notifications in your app.
+author: Jeremy Fox
+license: Paid licensing only.
+copyright: Jeremy Fox
+
+
+# these should not be edited
+name: ultimate notifications
+moduleid: com.jeremyfox.ultimatenotifications
+guid: d56c4af4-0719-4938-b295-24a5345d5022
+platform: iphone
+minsdk: 1.8.1
